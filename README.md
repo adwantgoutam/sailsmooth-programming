@@ -11,28 +11,39 @@ https://github.com/255kb/stack-on-a-budget
 
 
 
------------
+-----------------------------------------------------------------------------
 ### Blockchain 
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
 
 
------------
+-----------------------------------------------------------------------------
 ### Computer Science
 * Online materials for Computer Science refresher concepts  
 https://github.com/ossu/computer-science
 
+
+
+
+-----------------------------------------------------------------------------
 ### Dashboarding  
 *  List of amazingly awesome dashboards/visualization resources  
 https://github.com/obazoud/awesome-dashboard  
 
 
+
+
+-----------------------------------------------------------------------------
 ### Design Patterns  
 * Design pattern basics study material  
 https://github.com/kamranahmedse/design-patterns-for-humans
 
-  
+
+
+
+
+-----------------------------------------------------------------------------
 ### Git 
 * Basics of Git  
 https://github.com/arslanbilal/git-cheat-sheet
@@ -45,16 +56,24 @@ https://sethrobertson.github.io/GitFixUm/fixup.html
 https://github.com/k88hudson/git-flight-rules
 
 
+-----------------------------------------------------------------------------
 ### GitHub  
 * Markdown cheat sheet  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
 
 
+
+
+-----------------------------------------------------------------------------
 ### Hacking, Security & Penetration Testing  
 * Collection of awesome lists for hackers, pentesters & security researchers  
 https://github.com/Hack-with-Github/Awesome-Hacking  
 
 
+
+
+
+-----------------------------------------------------------------------------
 ### Interview Materials & Concepts  
 * Answers of the age old questions "What happens when you ...  
 https://github.com/alex/what-happens-when
@@ -73,15 +92,29 @@ https://github.com/andreis/interview
 
 * Technical interview questions & materials  
 https://github.com/MaximAbramchuck/awesome-interview-questions  
-  
+ 
+ 
+ 
+ 
+
+-----------------------------------------------------------------------------
 ### JavaScript  
 * Cheatsheet for JavaScript  
 https://github.com/mbeaudru/modern-js-cheatsheet
 
+
+
+
+
+-----------------------------------------------------------------------------
 ### Machine Learning  
 *  Study plan for machine learning engineer  
 https://github.com/ZuzooVn/machine-learning-for-software-engineers  
 
+
+
+
+-----------------------------------------------------------------------------
 ### Unix Commands
 * Basic Bash commands guide  
 https://github.com/Idnan/bash-guide
