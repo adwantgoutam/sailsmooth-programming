@@ -38,7 +38,7 @@ https://github.com/k88hudson/git-flight-rules
 
   
 ### Hacking, Security & Penetration Testing  
-* Collection of awesome lists for hackers, pentesters & security researchers
+* Collection of awesome lists for hackers, pentesters & security researchers  
 https://github.com/Hack-with-Github/Awesome-Hacking  
 
 
