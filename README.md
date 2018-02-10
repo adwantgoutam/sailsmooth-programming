@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=ZYZDdG-cB8Q
   
   
 ### Git 
+* Basics of Git  
+https://github.com/arslanbilal/git-cheat-sheet
+
+  
 * Fixing the stuffs that you probably didn't want to do  
 https://sethrobertson.github.io/GitFixUm/fixup.html
 
