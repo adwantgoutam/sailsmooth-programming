@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 * Fixing the stuffs that you probably didn't want to do  
 https://sethrobertson.github.io/GitFixUm/fixup.html
 
-* Flight rules for Git - what to do when things go wrong
+* Flight rules for Git - what to do when things go wrong  
 https://github.com/k88hudson/git-flight-rules
 
 
