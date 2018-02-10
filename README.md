@@ -2,7 +2,7 @@
   
   
 # SailSmooth-Programming 
-:pray: Personal repo of awesome links found over the years in internet :pray:  
+Personal repo of awesome links found over the years in internet :pray: :pray:   
 
 <br>
 
