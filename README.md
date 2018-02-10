@@ -5,7 +5,8 @@ Personal repo of awesome links found over the years in internet
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
-
+  
+  
 ### Git 
 * Fixing the stuffs that you probably didn't want to do  
 https://sethrobertson.github.io/GitFixUm/fixup.html
@@ -13,7 +14,8 @@ https://sethrobertson.github.io/GitFixUm/fixup.html
 * Flight rules for Git - what to do when things go wrong  
 https://github.com/k88hudson/git-flight-rules
 
-
+  
+  
 ### JavaScript  
 * Cheatsheet for JavaScript  
 https://github.com/mbeaudru/modern-js-cheatsheet
