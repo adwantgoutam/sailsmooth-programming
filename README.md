@@ -1,7 +1,7 @@
 # sailsmooth-programming
 Personal repo of awesome links found over the years in internet
 
----
+
 ### Application Development Quick Materials
 * A collective list of free APIs that can be used in sample Mobile/Web application development 
 https://github.com/toddmotto/public-apis
@@ -10,11 +10,15 @@ https://github.com/toddmotto/public-apis
 https://github.com/255kb/stack-on-a-budget
 
 
+
+-----------
 ### Blockchain 
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
 
+
+-----------
 ### Computer Science
 * Online materials for Computer Science refresher concepts  
 https://github.com/ossu/computer-science
