@@ -29,6 +29,10 @@ https://sethrobertson.github.io/GitFixUm/fixup.html
 https://github.com/k88hudson/git-flight-rules
 
   
+### Interview Materials & Concepts  
+* Answers of the age old questions "What happens when you ...  
+https://github.com/alex/what-happens-when
+
   
 ### JavaScript  
 * Cheatsheet for JavaScript  
