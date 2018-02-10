@@ -27,7 +27,7 @@ https://github.com/ossu/computer-science
 
 
 -----------------------------------------------------------------------------
-### Dashboarding  
+### :hibiscus: Dashboarding  
 *  List of amazingly awesome dashboards/visualization resources  
 https://github.com/obazoud/awesome-dashboard  
 
@@ -35,7 +35,7 @@ https://github.com/obazoud/awesome-dashboard
 
 
 -----------------------------------------------------------------------------
-### Design Patterns  
+### :hibiscus: Design Patterns  
 * Design pattern basics study material  
 https://github.com/kamranahmedse/design-patterns-for-humans
 
@@ -44,7 +44,7 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 
 
 -----------------------------------------------------------------------------
-### Git 
+### :hibiscus: Git 
 * Basics of Git  
 https://github.com/arslanbilal/git-cheat-sheet
 
@@ -57,7 +57,7 @@ https://github.com/k88hudson/git-flight-rules
 
 
 -----------------------------------------------------------------------------
-### GitHub  
+### :hibiscus: GitHub  
 * Markdown cheat sheet  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
   
@@ -65,7 +65,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 -----------------------------------------------------------------------------
-### Hacking, Security & Penetration Testing  
+### :hibiscus: Hacking, Security & Penetration Testing  
 * Collection of awesome lists for hackers, pentesters & security researchers  
 https://github.com/Hack-with-Github/Awesome-Hacking  
 
@@ -74,7 +74,7 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 
 
 -----------------------------------------------------------------------------
-### Interview Materials & Concepts  
+### :hibiscus: Interview Materials & Concepts  
 * Answers of the age old questions "What happens when you ...  
 https://github.com/alex/what-happens-when
 
@@ -98,7 +98,7 @@ https://github.com/MaximAbramchuck/awesome-interview-questions
  
 
 -----------------------------------------------------------------------------
-### JavaScript  
+### :hibiscus: JavaScript  
 * Cheatsheet for JavaScript  
 https://github.com/mbeaudru/modern-js-cheatsheet
 
@@ -107,7 +107,7 @@ https://github.com/mbeaudru/modern-js-cheatsheet
 
 
 -----------------------------------------------------------------------------
-### Machine Learning  
+### :hibiscus: Machine Learning  
 *  Study plan for machine learning engineer  
 https://github.com/ZuzooVn/machine-learning-for-software-engineers  
 
@@ -115,7 +115,7 @@ https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 
 -----------------------------------------------------------------------------
-### Unix Commands
+### :hibiscus: Unix Commands
 * Basic Bash commands guide  
 https://github.com/Idnan/bash-guide
 
