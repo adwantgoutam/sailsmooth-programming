@@ -4,9 +4,8 @@
 
 # SailSmooth-Programming 
 :pray: Personal repo of awesome links found over the years in internet :pray:  
-  
-  
------------------------------------------------------------------------------
+
+<br><br><br><br><br>
 ### :hibiscus: Application Development Quick Materials
 * A collective list of free APIs that can be used in sample Mobile/Web application development 
 https://github.com/toddmotto/public-apis
