@@ -17,6 +17,11 @@ https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 https://github.com/ossu/computer-science
 
 
+### Design Patterns  
+* Design pattern basics study material  
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+  
 ### Git 
 * Basics of Git  
 https://github.com/arslanbilal/git-cheat-sheet
