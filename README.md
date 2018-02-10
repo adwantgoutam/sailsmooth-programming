@@ -2,7 +2,7 @@
   
   
 # SailSmooth-Programming 
-Personal repo of awesome links found over the years in internet :pray: :pray:   
+Personal repo of awesome links/study materials/repos found in various places :pray: :pray:   
 <br>
 
 -----------------------------------------------------------------------------
@@ -14,16 +14,18 @@ https://github.com/toddmotto/public-apis
 * Collection of services with great free tiers for developers with no money   
 https://github.com/255kb/stack-on-a-budget
 
-<br><br>
+<br>
 -----------------------------------------------------------------------------
 ### :hibiscus: Blockchain 
+-----------------------------------------------------------------------------
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
 
-<br><br>
+<br>
 -----------------------------------------------------------------------------
 ### :hibiscus: Computer Science
+-----------------------------------------------------------------------------
 * Online materials for Computer Science refresher concepts  
 https://github.com/ossu/computer-science
 
