@@ -60,8 +60,8 @@ https://github.com/k88hudson/git-flight-rules
 ### GitHub  
 * Markdown cheat sheet  
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-
-
+  
+  https://github.com/tiimgreen/github-cheat-sheet
 
 
 -----------------------------------------------------------------------------
