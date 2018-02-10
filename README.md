@@ -61,6 +61,9 @@ https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava
 
 * Some useful reading stuffs related to interview process  
 https://github.com/andreis/interview  
+
+* Technical interview questions & materials  
+https://github.com/MaximAbramchuck/awesome-interview-questions  
   
 ### JavaScript  
 * Cheatsheet for JavaScript  
