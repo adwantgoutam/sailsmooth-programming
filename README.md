@@ -40,7 +40,12 @@ https://sethrobertson.github.io/GitFixUm/fixup.html
 * Flight rules for Git - what to do when things go wrong  
 https://github.com/k88hudson/git-flight-rules
 
-  
+
+### GitHub  
+* Markdown cheat sheet  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+
+
 ### Hacking, Security & Penetration Testing  
 * Collection of awesome lists for hackers, pentesters & security researchers  
 https://github.com/Hack-with-Github/Awesome-Hacking  
