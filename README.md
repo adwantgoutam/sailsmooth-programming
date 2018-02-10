@@ -2,7 +2,7 @@
 # SailSmooth-Programming 
 :pray: Personal repo of awesome links found over the years in internet :pray:
   
-  ![Alt Text](https://gph.is/1UK1ZFa)  
+  ![Alt Text](https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.gif)  
   
   
 -----------------------------------------------------------------------------
