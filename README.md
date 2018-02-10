@@ -74,7 +74,7 @@ https://github.com/mbeaudru/modern-js-cheatsheet
 https://github.com/ZuzooVn/machine-learning-for-software-engineers  
 
 ### Unix Commands
-* Basic Bash commands guide
+* Basic Bash commands guide  
 https://github.com/Idnan/bash-guide
 
 
