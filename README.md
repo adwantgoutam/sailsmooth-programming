@@ -14,4 +14,9 @@ https://sethrobertson.github.io/GitFixUm/fixup.html
 https://github.com/k88hudson/git-flight-rules
 
 
+### JavaScript  
+* Cheatsheet for JavaScript  
+https://github.com/mbeaudru/modern-js-cheatsheet
+
+
 
