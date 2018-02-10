@@ -19,6 +19,10 @@ https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 * Online materials for Computer Science refresher concepts  
 https://github.com/ossu/computer-science
 
+### Dashboarding  
+*  List of amazingly awesome dashboards/visualization resources  
+https://github.com/obazoud/awesome-dashboard  
+
 
 ### Design Patterns  
 * Design pattern basics study material  
