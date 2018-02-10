@@ -10,7 +10,9 @@ https://github.com/toddmotto/public-apis
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
-  
+### Computer Science
+* Online materials for Computer Science refresher concepts  
+https://github.com/ossu/computer-science
   
 ### Git 
 * Basics of Git  
