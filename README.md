@@ -2,9 +2,12 @@
 Personal repo of awesome links found over the years in internet
 
 
-### API
+### Application Development Quick Materials
 * A collective list of free APIs that can be used in sample Mobile/Web application development 
 https://github.com/toddmotto/public-apis
+
+* Collection of services with great free tiers for developers with no money   
+https://github.com/255kb/stack-on-a-budget
 
 
 ### Blockchain 
