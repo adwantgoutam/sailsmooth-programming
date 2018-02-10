@@ -1,19 +1,22 @@
 # sailsmooth-programming
 Personal repo of awesome links found over the years in internet
 
+
 ### API
 * A collective list of free APIs that can be used in sample Mobile/Web application development 
 https://github.com/toddmotto/public-apis
 
-  
+
 ### Blockchain 
 * A layman's intro  
 https://www.youtube.com/watch?v=ZYZDdG-cB8Q
 
+
 ### Computer Science
 * Online materials for Computer Science refresher concepts  
 https://github.com/ossu/computer-science
-  
+
+
 ### Git 
 * Basics of Git  
 https://github.com/arslanbilal/git-cheat-sheet
@@ -30,6 +33,11 @@ https://github.com/k88hudson/git-flight-rules
 ### JavaScript  
 * Cheatsheet for JavaScript  
 https://github.com/mbeaudru/modern-js-cheatsheet
+
+
+### Unix Commands
+* Basic Bash commands guide
+https://github.com/Idnan/bash-guide
 
 
 
