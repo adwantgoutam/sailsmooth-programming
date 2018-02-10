@@ -49,6 +49,9 @@ https://github.com/jwasham/coding-interview-university
 
 *  Data Structure And Algorithms Made Easy In Java book solutions for reference  
 https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava  
+
+* Some useful reading stuffs related to interview process  
+https://github.com/andreis/interview  
   
 ### JavaScript  
 * Cheatsheet for JavaScript  
