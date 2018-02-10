@@ -46,6 +46,9 @@ https://github.com/donnemartin/system-design-primer
 
 *  Short to-do list of study topics for Interviews  
 https://github.com/jwasham/coding-interview-university
+
+*  Data Structure And Algorithms Made Easy In Java book solutions for reference  
+https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava  
   
 ### JavaScript  
 * Cheatsheet for JavaScript  
