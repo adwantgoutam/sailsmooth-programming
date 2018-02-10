@@ -55,7 +55,7 @@ https://github.com/careermonk/DataStructureAndAlgorithmsMadeEasyInJava
 https://github.com/mbeaudru/modern-js-cheatsheet
 
 ### Machine Learning  
-*  Study plan for machine learning engineer
+*  Study plan for machine learning engineer  
 https://github.com/ZuzooVn/machine-learning-for-software-engineers  
 
 ### Unix Commands
