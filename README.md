@@ -2,7 +2,7 @@
 :pray: Personal repo of awesome links found over the years in internet :pray:
 
 -----------------------------------------------------------------------------
-### Application Development Quick Materials
+### :neckbeard: Application Development Quick Materials
 * A collective list of free APIs that can be used in sample Mobile/Web application development 
 https://github.com/toddmotto/public-apis
 
